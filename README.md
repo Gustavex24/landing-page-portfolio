@@ -40,5 +40,5 @@ Layout
 
 O layout foi desenvolvido pensando na experiência do usuário (UX), garantindo que todos os elementos sejam visíveis e clicáveis em qualquer tamanho de tela (Celular, Tablet e Desktop).
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/gustavomilao) 
+
